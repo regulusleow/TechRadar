@@ -1,117 +1,245 @@
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
+# ========================================
+# iOS / macOS 开发
+# ========================================
 iOS开发
 macOS开发
 Swift
 SwiftUI
 Objective-C
 Xcode
-App Store
-TestFlight
+UIKit
+AppKit
+Foundation
+Cocoa
 CocoaPods
 Swift Package Manager
+SPM
+Carthage
+TestFlight
+App Store
+App Store审核
+苹果开发者
+WWDC
+visionOS
+watchOS
 
-Android开发
-Kotlin
-Java
-Jetpack Compose
-Gradle
-Google Play
-
-KMP
-Kotlin Multiplatform
-Flutter
-React Native
-Compose Multiplatform
-跨平台开发
-
+# ========================================
+# 底层原理与编译原理
+# ========================================
+底层原理
 编译原理
+编译器
 LLVM
 Clang
 GCC
-编译器
-字节码
 汇编
-反编译
-逆向工程
-插桩技术
-代码注入
-Hook
-AOP
-静态分析
-动态分析
-源码阅读
-JVM
+字节码
 虚拟机
 运行时
+Runtime
+Objective-C Runtime
+方法调用
+消息转发
+动态特性
+元编程
+反射
 内存管理
+ARC
+引用计数
 垃圾回收
-性能优化
+内存对齐
+指针
+链接器
+Linker
+dyld
+Mach-O
+ELF
+静态链接
+动态链接
+符号表
+
+# ========================================
+# 源码解读
+# ========================================
+源码解读
+源码分析
+源码阅读
+开源项目
+框架源码
+系统源码
+Darwin
+XNU
+WebKit
+libdispatch
+GCD源码
+AFNetworking
+Alamofire
+SDWebImage
+SnapKit
+RxSwift
+Kingfisher
+
+# ========================================
+# 基础库与性能监控
+# ========================================
 APM
 性能监控
+性能优化
+Crash收集
+崩溃分析
+日志收集
+埋点
+数据上报
+Firebase
+Sentry
+Bugly
+崩溃堆栈
+符号化
+dSYM
+卡顿监控
+启动优化
+内存泄漏
+Memory Leak
+Instruments
+网络监控
+电量优化
+包体积优化
 
-ai
-!gai
-人工智能
+# ========================================
+# 逆向工程与安全
+# ========================================
+逆向工程
+逆向分析
+反编译
+Hook
+AOP
+Swizzle
+Fishhook
+Frida
+Cycript
+IDA
+Hopper
+class-dump
+代码注入
+越狱
+Jailbreak
+砸壳
+代码混淆
+安全加固
+反调试
+插桩技术
 
-自动驾驶
+# ========================================
+# AI 技术
+# ========================================
+Claude
+Claude Sonnet
+Claude Opus
+Anthropic
 
-机器人
+OpenAI
+ChatGPT
+GPT-4
+GPT-5
+o1
+o3
+Sora
 
-国产
-中国
+DeepSeek
+DeepSeek V3
 
-美国
-日本
-韩国
+Gemini
+Google AI
+Bard
 
-芯片
-光刻机
+AI编程
+AI代码助手
+Cursor
+GitHub Copilot
+Codeium
+AI模型
+大语言模型
+LLM
+多模态
+Transformer
+AGI
+AI Agent
 
-科技
+# ========================================
+# 军事政治
+# ========================================
+军事
+国防
+解放军
+美军
+俄军
+战斗机
+航母
+核武器
+导弹
+无人机
+军演
+军备
+武器装备
+
+政治
+外交
+国际关系
+中美关系
+台海
+南海
+钓鱼岛
+俄乌
+中东
+地缘政治
+制裁
+国际局势
+联合国
+北约
+
+# ========================================
+# 科技公司与产品
+# ========================================
+苹果
+Apple
+iPhone
+iPad
+Mac
+MacBook
+Vision Pro
+Apple Silicon
+M系列芯片
+
+华为
+鸿蒙
+HarmonyOS
+任正非
+
+微软
+Microsoft
+Azure
+
+谷歌
+Google
+
+英伟达
+NVIDIA
+黄仁勋
+
+特斯拉
+马斯克
+
+# ========================================
+# 其他技术关注
+# ========================================
+架构设计
+设计模式
+重构
+代码质量
+单元测试
+自动化测试
+CI/CD
+Git
+版本控制
+代码审查
+技术债务
